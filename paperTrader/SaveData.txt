@@ -1,5 +1,1 @@
-portBal 10000 - - -
-bookVal 10000 - - -
-PL 0 - - -
-funds 10000 - - -
-AAPL 300.63 0 0 0
+
