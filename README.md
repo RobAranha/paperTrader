@@ -35,7 +35,7 @@ To sell shares, select the desired quantity and click the corresponding ‘Sell�
 ## Updating
 
 An update can be forced by clicking the “Update” button. On update, the total profit/loss of the portfolio will be updated to reflect fluctuations in market prices.
-<Insert Image>
+![](ScreenShots/Update.JPG)
   
 Note: An update will automatically occur when adding a new a company to the watch list to keep market data in sync.
 
