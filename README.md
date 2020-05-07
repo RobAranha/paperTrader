@@ -44,4 +44,3 @@ When an update occurs, the GetData.py script will be called, pulling the market 
 ## Saving Data
 
 Data is saved after adding funds/ticker symbols, placing buy/sell orders, and when closing the form. you’ll never forget your gains!
-Instructions
